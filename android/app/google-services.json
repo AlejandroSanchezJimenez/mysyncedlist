@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835047690792",
+    "project_id": "mysynclist",
+    "storage_bucket": "mysynclist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835047690792:android:c9a83717b79afd1d52db1d",
+        "android_client_info": {
+          "package_name": "com.example.mysynclist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmfLBUVnAlZ7Z2fKatf8bCs2G0OWSkg98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
