@@ -31,7 +31,10 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+/build/*
+!/build/web/
+!/build/web/**
+/lib/firebase_options.dart
 
 # Symbolication related
 app.*.symbols
@@ -43,5 +46,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-lib/firebase_options.dart
